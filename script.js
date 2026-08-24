@@ -2,12 +2,13 @@
 // I have intentionally not guessed phone/email/Facebook details.
 const SITE = {
   name: "Acharya Govind Shastri",
-  phone: "",          // Example: +91 98765 43210
-  whatsapp: "",       // Digits with country code, e.g. 919876543210
-  email: "",          // Example: name@example.com
-  location: "India",  // Replace with city/location if desired
-  facebook: "",       // Full Facebook profile/page URL
-  youtube: "https://youtube.com/@acharyagovindshastri6893?si=yqWklWoXcAeDVBJO"
+  phone: "+91 98765 43210",
+  whatsapp: "+91 9876543210",
+  email: ""acharya9227@gmail.com",
+  location: "Naimisharanya, Uttar Pradesh, India",
+  facebook: "https://www.facebook.com/raghavendra.mishra.818604",
+  youtube: "https://youtube.com/@acharyagovindshastri6893?si=yqWklWoXcAeDVBJO",
+  Instagram: "https://www.instagram.com/raghavendramishra208?igsi=MTlyNjVtdzZtNXExaw==",
 };
 
 const details = document.getElementById('contactDetails');

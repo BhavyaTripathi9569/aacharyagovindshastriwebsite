@@ -1,5 +1,3 @@
-// EDIT THESE DETAILS before publishing if you want real contact buttons.
-// I have intentionally not guessed phone/email/Facebook details.
 const SITE = {
   name: "Acharya Govind Shastri",
   phone: "+91 98765 43210",

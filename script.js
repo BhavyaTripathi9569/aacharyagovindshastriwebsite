@@ -1,12 +1,12 @@
 const SITE = {
   name: "Acharya Govind Shastri",
-  phone: "+91 98765 43210",
-  whatsapp: "+91 9876543210",
-  email: ""acharya9227@gmail.com",
+  phone: "+91 9897178920",
+  whatsapp: "+91 9897178920",
+  email: "acharya9227@gmail.com",
   location: "Naimisharanya, Uttar Pradesh, India",
   facebook: "https://www.facebook.com/raghavendra.mishra.818604",
   youtube: "https://youtube.com/@acharyagovindshastri6893?si=yqWklWoXcAeDVBJO",
-  Instagram: "https://www.instagram.com/raghavendramishra208?igsi=MTlyNjVtdzZtNXExaw==",
+  instagram: "https://www.instagram.com/raghavendramishra208?igsi=MTlyNjVtdzZtNXExaw==",
 };
 
 const details = document.getElementById('contactDetails');

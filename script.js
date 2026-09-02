@@ -1,6 +1,6 @@
 const SITE = {
   name: "Aacharya Govind Shastri",
-  phone: "+91 98971 78920",
+  phone: "+91 98971 78920,+91 8273367920",
   whatsapp: "+91 9897178920",
   email: "acharya9227@gmail.com",
   location: "Naimisharanya, Uttar Pradesh, India",
